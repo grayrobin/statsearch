@@ -1,3 +1,3 @@
 "# statsearch" 
 
-Statistical Research
+Statistical Research on Algorithmic Trading Strategies
